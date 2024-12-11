@@ -12,3 +12,5 @@
 
 | <a href="https://github.com/zhangdout/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangdout&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Evan's github stats" /></a> | <a href="https://github.com/zhangdout/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangdout&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+! [Visitor Count](https://profile-counter.glitch.me/zhangdout/count.svg)
