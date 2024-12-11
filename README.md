@@ -1,5 +1,11 @@
 ## Hi there 👋 I'm Evan Zhang
 
+[![Linkedin](https://img.shields.io/badge/-Yichi(Evan)Zhang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evanzhang0209)
+![](https://komarev.com/ghpvc/?username=zhangdout&style=flat)
+
+| <a href="https://github.com/zhangdout/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangdout&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Evan's github stats" /></a> | <a href="https://github.com/zhangdout/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangdout&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,12 +25,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-
-| <a href="https://github.com/zhangdout/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangdout&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Evan's github stats" /></a> | <a href="https://github.com/zhangdout/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangdout&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-![Visitor Count](https://profile-counter.glitch.me/zhangdout/count.svg)
 
 
 
